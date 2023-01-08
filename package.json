@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mocha-allure-reporter": "^1.4.0"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.34.0"
+  }
+}
